@@ -50,9 +50,9 @@ const config = {
             'https://github.com/your-username/physical-ai-humanoid-robotics/tree/main/',
         },
         blog: false, // Disable blog for educational curriculum
-        theme: {
-          customCss: './src/css/custom.css',
-        },
+        // theme: {
+        //   customCss: './src/css/custom.css',
+        // },
       }),
     ],
   ],
