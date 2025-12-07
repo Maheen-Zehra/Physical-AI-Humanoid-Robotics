@@ -13,6 +13,7 @@ const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
+  trailingSlash: true, // Add this line
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -154,5 +155,6 @@ const config = {
       },
     }),
 };
+
 
 export default config;
