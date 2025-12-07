@@ -1,0 +1,134 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# ROS 2
+install/
+build/
+log/
+*.log
+*.yaml
+*.xml
+*.urdf
+*.sdf
+
+# ROS 2 specific
+.devel/
+.inst/
+build_isolated/
+install_isolated/
+src/
+
+# ROS 2 workspace
+~/ros2_ws/build/
+~/ros2_ws/install/
+~/ros2_ws/log/
+
+# Isaac Sim
+isaac-sim/
+~/isaac-sim/
+
+# Unity
+Library/
+Temp/
+Obj/
+Logs/
+MemoryCaptures/
+Build/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.unity
+*.asset
+*.cdda
+*.prefab
+*.mat
+*.meta
+*.controller
+*.anim
+*.mask
+*.overrideController
+*.physicsMaterial
+*.physicsMaterial2D
+*.asset.meta
+
+# Documentation
+docs/build/
+docs/_build/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.cov/
+.coverage.*
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Docusaurus
+.docusaurus/
+build/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+*.ipynb
