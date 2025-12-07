@@ -49,7 +49,7 @@ const config = {
         },
         blog: false, // Disable blog for educational curriculum
         theme: {
-          // customCss: './src/css/custom.css', // Commented out or removed
+          customCss: './src/css/custom.css',
         },
       }),
     ],
